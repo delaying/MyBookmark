@@ -9,7 +9,7 @@
 
 사이트를 추가할 때 설명과 태그를 활용하여 필요한 사이트를 쉽고 빠르게 찾을 수 있습니다.
 
-프로젝트의 자세한 소개 및 시연영상은 [여기](https://www.youtube.com/watch?v=4uHCFgcUVKc)에서 확인하실 수 있습니다.
+프로젝트 [소개](https://lace-stetson-a16.notion.site/MY-Bookmark-eaabaa7f500249de8271ed333944e9b2) 및 [시연영상](https://www.youtube.com/watch?v=4uHCFgcUVKc)을 참고해주시기 바랍니다.
 
 
 ## 구현 
