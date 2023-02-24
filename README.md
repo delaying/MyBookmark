@@ -1,5 +1,5 @@
 # MyBookmark
-캡스톤 과제로 진행했던 프로젝트입니다.
+이 프로젝트는 캡스톤 과제로 진행했던 프로젝트입니다.
 
 개발기간 : 2022.10.25~2022.11.18
 
@@ -9,7 +9,7 @@
 
 사이트를 추가할 때 설명과 태그를 활용하여 필요한 사이트를 쉽고 빠르게 찾을 수 있습니다.
 
-프로젝트 [소개](https://lace-stetson-a16.notion.site/MY-Bookmark-eaabaa7f500249de8271ed333944e9b2) 및 [시연영상](https://www.youtube.com/watch?v=4uHCFgcUVKc)을 참고해주시기 바랍니다.
+프로젝트와 관련한 자세한 내용들은 [프로젝트 소개](https://lace-stetson-a16.notion.site/MY-Bookmark-eaabaa7f500249de8271ed333944e9b2) 및 [시연 영상](https://www.youtube.com/watch?v=4uHCFgcUVKc)을 참고해주시기 바랍니다.
 
 
 ## 구현 
